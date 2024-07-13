@@ -1,0 +1,9 @@
+Projects.php
+
+Design:
+	1. Header 2. Greetings (with username) 3. Science and Tech projects different Section
+
+1. Access projects.php page using QR code (OT QR code) 
+2. Render data to DOM (from database)
+3. Give user the authority to rank
+4. Thank you for ranking popup
